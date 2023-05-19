@@ -1,5 +1,7 @@
-// BlackJack.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+/*
+    Author: Matas Kimtys
+    Start Date: 13/06/2023
+*/
 
 #include <iostream>
 #include "BlackJack.h"
